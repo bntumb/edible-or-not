@@ -1,4 +1,4 @@
-# Edible-or-Not
+# Edible or Not
 This project looks to create a machine learning model that can decide whether a mushroom is considered to be edible or not. 
 I conduct a comparative study between Decision Trees and KNN. I will also conduct performance evaluation. 
 
